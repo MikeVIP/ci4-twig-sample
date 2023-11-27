@@ -24,6 +24,11 @@ $ php spark serve
 Navigate to:
 - http://localhost:8080/session_sample
 - http://localhost:8080/markdown_sample
+  - Remember to install it first:
+  ~~~
+  $ composer require twig/markdown-extra
+  $ composer require league/commonmark
+  ~~~
 
 ## References
 
